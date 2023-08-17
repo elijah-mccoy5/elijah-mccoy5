@@ -1,6 +1,6 @@
 Hello, I'm Elijah 👋
 
-I'm a 20 years old Software Engineer based in California.
+I'm a 20-year-old Software Engineer based in California.
 I enjoy crafting challenging designs into functional products
 The thing that interests me the most, is the ability to breakdown
 a complex problem into subsections and conquer it. 

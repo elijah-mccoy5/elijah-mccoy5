@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello, I'm Elijah 👋
 
 I'm a 20 years old Software Engineer based in California.
 I enjoy crafting challenging designs into functional products
@@ -13,6 +13,7 @@ elijah.mccoy5@gmail.com
 
 
 🚀 Languages & Tools
+
 🏝️ Front End
 HTML
 HTML5	CSS3
